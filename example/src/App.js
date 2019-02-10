@@ -7,10 +7,10 @@ export default class App extends Component {
     return (
       <div>
         <a className='github-button'
-          href='https://github.com/yershalom/react-wordart'
+          href='https://github.com/yershalom/react-chuck'
           data-size='large'
           data-show-count='true'
-          aria-label='Star yershalom/react-wordart on GitHub'
+          aria-label='Star yershalom/react-chuck on GitHub'
         >
           Star
         </a>
