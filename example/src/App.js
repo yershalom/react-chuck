@@ -6,6 +6,14 @@ export default class App extends Component {
   render () {
     return (
       <div>
+        <a className='github-button'
+          href='https://github.com/yershalom/react-wordart'
+          data-size='large'
+          data-show-count='true'
+          aria-label='Star yershalom/react-wordart on GitHub'
+        >
+          Star
+        </a>
         <div style={{padding: 20}}>
           <Chuck />
         </div>
