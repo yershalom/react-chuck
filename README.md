@@ -1,4 +1,4 @@
-# react-chuck
+# react-chuck ([demo](https://yershalom.github.io/react-chuck/))
 
 > Random Chuck Norris jokes for react
 
@@ -29,3 +29,5 @@ class Example extends Component {
 ## License
 
 MIT © [yershalom](https://github.com/yershalom)
+
+This module was bootstrapped with [create-react-library](https://github.com/transitive-bullshit/create-react-library).
