@@ -22,7 +22,7 @@
     "deploy": "gh-pages -d example/build"
   },
   "dependencies": {
-    "axios": "0.18.0"
+    "axios": "0.21.1"
   },
   "peerDependencies": {
     "prop-types": "^15.5.4",
